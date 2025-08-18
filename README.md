@@ -59,7 +59,7 @@ I'm a motivated **Software Engineering student** at York University, passionate 
   - Collaborated with CSA/MDA engineers to validate system resilience under vacuum, vibration, and extreme temperature tests.  
   - Optimized data acquisition pipeline, improving imaging accuracy by 25%.  
 
-### **[DE10 Battleship Game](https://github.com/GauravMoturi/DE10-Battleship)**
+### **[DE10 Battleship Game](https://github.com/GauravMoturi/DE-10-Battleship)**
 - **Overview**: Interactive two-player Battleship game implemented on FPGA hardware.  
 - **Technologies**: Verilog HDL, FPGA (DE10-Lite), Quartus, VGA  
 - **Key Contributions**:  
