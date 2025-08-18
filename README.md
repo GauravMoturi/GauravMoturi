@@ -75,7 +75,7 @@ I'm a motivated **Software Engineering student** at York University, passionate 
   - Built a real-time messaging system and analytics dashboard for sellers.  
   - Integrated CI/CD pipeline for smooth feature deployment.  
 
-### **[Evil People Card Game](https://github.com/GauravMoturi/EvilPeopleGame)**
+### **[Evil People Card Game](https://github.com/GauravMoturi/Evil-People-website)**
 - **Overview**: Online multiplayer card game with real-time synchronization and scalable server logic.  
 - **Technologies**: React, Firebase, Python (JSON DB)  
 - **Key Contributions**:  
