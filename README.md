@@ -1,16 +1,14 @@
 ## Hi there, I'm Gaurav Charan Moturi 👋
 
-## Hi there, I'm Gaurav Charan Moturi 👋
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-moturi/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GauravMoturi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravmoturi@gmail.com)
 
 ## About Me
 
-I'm a motivated **Software Engineering student** at York University passionate about building scalable systems, embedded software, and full-stack applications. I enjoy working at the intersection of **hardware and software**, and I’m always excited to solve complex real-world problems through code and design.  
+I'm a motivated **Software Engineering student** at York University, passionate about building scalable systems, embedded software, and full-stack applications. I enjoy working at the intersection of **hardware and software**, and I’m always excited to solve complex real-world problems through code and design.  
 
-- 🎓 **Education**: Honours Bachelors of Software Engineering, York University (Graduating June 2025)  
+- 🎓 **Education**: Honours Bachelor's of Software Engineering, York University (Graduating June 2025)  
 - 💼 **Experience**:
   - **Software Developer Intern** at **YuRideShare**: Built a full-stack ridesharing platform (React, Node.js, MongoDB), implemented secure authentication, and achieved 98% test coverage.  
   - **VP-Finance** at Lassonde Engineering Society: Managed society finances and budgets, ensuring transparency and cost efficiency.  
@@ -74,7 +72,7 @@ I'm a motivated **Software Engineering student** at York University passionate a
 - **Technologies**: React, Python, Firebase, TypeScript  
 - **Key Contributions**:  
   - Developed role-based authentication and secure login using Firebase.  
-  - Built real-time messaging system and analytics dashboard for sellers.  
+  - Built a real-time messaging system and analytics dashboard for sellers.  
   - Integrated CI/CD pipeline for smooth feature deployment.  
 
 ### **[Evil People Card Game](https://github.com/GauravMoturi/EvilPeopleGame)**
