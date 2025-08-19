@@ -94,7 +94,8 @@ I'm a motivated **Software Engineering student** at York University, passionate 
 
 ## GitHub Stats
 
-![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GauravMoturi&show_icons=true&theme=radical)
+![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GauravMoturi&show_icons=true&theme=radical&count_private=true&include_all_commits=true&v=2)
+
 
 
 
