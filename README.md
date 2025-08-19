@@ -13,6 +13,7 @@ I'm a motivated **Software Engineering student** at York University, passionate 
   - **Software Developer Intern** at **YuRideShare**: Built a full-stack ridesharing platform (React, Node.js, MongoDB), implemented secure authentication, and achieved 98% test coverage.  
   - **VP-Finance** at Lassonde Engineering Society: Managed society finances and budgets, ensuring transparency and cost efficiency.  
 - 🌱 **Currently Learning**: Advanced embedded systems, FPGA optimization, cloud deployment (Docker, Kubernetes), and scalable microservices.  
+- 🌟 **Highlights**: Co-authored a research study on predictive battery performance that won **Best Paper at CTRF 2024**.  
 - 💬 **Ask me about**: Embedded development, full-stack web apps, real-time systems, project management.  
 
 ---
@@ -29,6 +30,12 @@ I'm a motivated **Software Engineering student** at York University, passionate 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-FFB500?style=for-the-badge&logo=verilog&logoColor=white)
+
+### **Frameworks**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### **Development Tools**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -95,6 +102,7 @@ I'm a motivated **Software Engineering student** at York University, passionate 
 ## GitHub Stats
 
 ![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GauravMoturi&show_icons=true&theme=radical&count_private=true&include_all_commits=true&v=2)
+
 
 
 
