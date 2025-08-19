@@ -42,10 +42,10 @@ I'm a motivated **Software Engineering student** at York University, passionate 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ### **Soft Skills**
-- Strong problem-solving and critical thinking  
-- Leadership and project management  
-- Effective communication and technical writing  
-- Agile collaboration and teamwork  
+- ✅ Strong problem-solving and critical thinking  
+- ✅ Leadership and project management  
+- ✅ Effective communication and technical writing  
+- ✅ Agile collaboration and teamwork  
 
 ---
 
