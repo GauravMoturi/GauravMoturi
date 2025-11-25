@@ -1,8 +1,8 @@
-## Hi there, I'm Gaurav Charan Moturi 👋
+# Hi there, I'm Gaurav Charan Moturi 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-moturi/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GauravMoturi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravmoturi@gmail.com)
+[![GitHub](https.img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GauravMoturi)
+[![Email](https.img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravmoturi@gmail.com)
 
 ---
 
@@ -11,39 +11,51 @@
 I am a Software Engineer specializing in the bridge between hardware and software. My passion lies in developing and supporting robust, mission-critical systems, from embedded C++ applications to distributed backend services. I thrive on performing deep-dive troubleshooting, ensuring system reliability, and collaborating with cross-functional teams to solve complex integration challenges in production environments.
 
 - 🎓 **Education**: Honours Bachelor's of Software Engineering, York University
-- 💡 **Core Interests**: Embedded Systems, Robotics, Distributed Systems, and Site Reliability Engineering (SRE)
-- 🌱 **Currently Exploring**: Advanced C++, Real-Time Operating Systems (RTOS), and cloud-native infrastructure (Kubernetes, gRPC).
 - 🌟 **Achievement**: Contributed to data-driven research that won the **Ron Rice Award for Best Paper at CTRF 2024**.
 
 ---
 
-### Core Competencies
+## Technical Skills
 
-**Languages**
-<br>
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-
-**Hardware & Embedded**
-<br>
-![Verilog](https://img.shields.io/badge/Verilog-1E366C?style=for-the-badge&logo=verilog&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GDB](https://img.shields.io/badge/GDB-4A4A4A?style=for-the-badge&logo=gnu&logoColor=white)
-![Quartus](https://img.shields.io/badge/Quartus-0078D4?style=for-the-badge&logo=intel&logoColor=white)
-
-**Backend, Frontend & DevOps**
-<br>
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Languages</strong><br>
+      <p>
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+      </p>
+      <strong>Hardware & Embedded</strong><br>
+      <p>
+        <img src="https://img.shields.io/badge/Verilog-1E366C?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog" />
+        <img src="https://img.shields.io/badge/Embedded Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Embedded Linux" />
+        <img src="https://img.shields.io/badge/GDB-4A4A4A?style=for-the-badge&logo=gnu&logoColor=white" alt="GDB" />
+        <img src="https://img.shields.io/badge/Quartus-0078D4?style=for-the-badge&logo=intel&logoColor=white" alt="Quartus" />
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <strong>Backend & Cloud</strong><br>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+      </p>
+      <strong>Frontend & Tools</strong><br>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+        <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -70,11 +82,7 @@ I am a Software Engineer specializing in the bridge between hardware and softwar
 - **Impact**: Engineered a scalable, concurrent server architecture supporting up to **10 players per game** and ensuring real-time game state synchronization across all clients using Firebase.
 
 ---
-
-## GitHub Statistics
-
-&nbsp;
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GauravMoturi&show_icons=true&theme=default&count_private=true&include_all_commits=true" alt="Gaurav's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravMoturi&layout=compact&theme=default" alt="Gaurav's Top Languages" />
-</p>
+<!-- METRICS START -->
+<!-- This section is automatically generated by the lowlighter/metrics GitHub Action -->
+<!-- Do not edit this section manually -->
+<!-- METRICS END -->
