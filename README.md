@@ -17,38 +17,33 @@ I am a Software Engineer specializing in the bridge between hardware and softwar
 
 ---
 
-### Professional Experience
+### Core Competencies
 
--   **Student Success Mentor Lead** | Lassonde School of Engineering (May 2024 – Jul 2025)
-    -   Acted as a technical point of contact for students, triaging issues and performing root cause analysis for university web portals to improve the user experience.
--   **Software Developer** | YuRideShare (Nov 2023 – Feb 2024)
-    -   Owned the full lifecycle for features in a production environment, including development, testing, and debugging to ensure high uptime and system stability.
-
----
-
-### My Core Competencies
-
-**Languages & Hardware**
+**Languages**
 <br>
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-1E366C?style=for-the-badge&logo=verilog&logoColor=white)
-
-**Backend & DevOps**
-<br>
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**Frontend**
-<br>
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+
+**Hardware & Embedded**
+<br>
+![Verilog](https://img.shields.io/badge/Verilog-1E366C?style=for-the-badge&logo=verilog&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GDB](https://img.shields.io/badge/GDB-4A4A4A?style=for-the-badge&logo=gnu&logoColor=white)
+![Quartus](https://img.shields.io/badge/Quartus-0078D4?style=for-the-badge&logo=intel&logoColor=white)
+
+**Backend, Frontend & DevOps**
+<br>
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -57,22 +52,22 @@ I am a Software Engineer specializing in the bridge between hardware and softwar
 ### **[NOVA: Optical Visibility Assessment (CSA/MDA)](https://github.com/GauravMoturi/NOVA)**
 - **Goal**: Develop mission-critical embedded software for an On-Board Computer to measure sky brightness from a high-altitude balloon, with 100% data survivability.
 - **Tech**: **C++, Embedded Linux (Armbian), GDB, BeagleBone**.
-- **Impact**: Successfully delivered robust C++ software that was validated by CSA/MDA engineers against vacuum, vibration, and thermal tests, ensuring mission success.
-
-### **[Distributed Caching Service (Redis Clone)](https://github.com/your-repo-link-here)**  <!-- Please update this link! -->
-- **Goal**: Engineer a high-throughput, in-memory caching service from scratch to understand the fundamentals of distributed systems and network programming.
-- **Tech**: **Python, Sockets, Concurrency, Custom Network Protocols**.
-- **Impact**: Built a scalable server capable of handling multiple concurrent clients, demonstrating a deep understanding of the core principles behind production systems like Redis and Kafka.
+- **Impact**: Delivered robust software validated by CSA/MDA against vacuum and thermal tests, optimizing the data pipeline to **improve imaging accuracy by 25%** and ensuring **100% data retention** through redundant storage.
 
 ### **[DE10 Battleship Game](https://github.com/GauravMoturi/DE-10-Battleship)**
-- **Goal**: Implement a complete, interactive two-player game directly on an FPGA to master low-level hardware control and digital logic design.
+- **Goal**: Implement a complete, interactive two-player game directly on an FPGA to master low-level hardware control and real-time logic.
 - **Tech**: **Verilog HDL, FPGA (DE10-Lite), Quartus, Finite State Machines**.
-- **Impact**: Designed and deployed a stable, real-time system with direct hardware I/O, proving out skills in hardware description languages essential for robotics and automation.
+- **Impact**: Designed and deployed a stable, real-time system with direct hardware I/O, successfully creating finite state machines for all game logic and debugging the implementation with Quartus simulation tools.
 
 ### **[DealSpot Marketplace App](https://github.com/GauravMoturi/DealSpot)**
 - **Goal**: Build and deploy a full-stack, product-centric eCommerce marketplace with modern features like real-time messaging and secure authentication.
 - **Tech**: **React, Python, TypeScript, Firebase, CI/CD**.
-- **Impact**: Launched a complete web application demonstrating end-to-end ownership, from front-end UI/UX to backend API design and automated deployment pipelines.
+- **Impact**: Launched a complete web app with secure, role-based authentication and a real-time messaging system, deploying features seamlessly via an integrated **CI/CD pipeline**.
+
+### **[Evil People Card Game](https://github.com/GauravMoturi/Evil-People-website)**
+- **Goal**: Create a real-time, online multiplayer card game capable of supporting multiple simultaneous game sessions.
+- **Tech**: **React, Firebase, Python (JSON DB)**.
+- **Impact**: Engineered a scalable, concurrent server architecture supporting up to **10 players per game** and ensuring real-time game state synchronization across all clients using Firebase.
 
 ---
 
@@ -80,6 +75,6 @@ I am a Software Engineer specializing in the bridge between hardware and softwar
 
 &nbsp;
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GauravMoturi&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Gaurav's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravMoturi&layout=compact&theme=tokyonight" alt="Gaurav's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GauravMoturi&show_icons=true&theme=default&count_private=true&include_all_commits=true" alt="Gaurav's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravMoturi&layout=compact&theme=default" alt="Gaurav's Top Languages" />
 </p>
