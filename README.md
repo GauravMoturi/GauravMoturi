@@ -6,9 +6,9 @@
 
 ## About Me
 
-I'm a motivated **Software Engineering student** at York University, passionate about building scalable systems, embedded software, and full-stack applications. I enjoy working at the intersection of **hardware and software**, and I’m always excited to solve complex real-world problems through code and design.  
+I'm a motivated **Software Engineering Graduate** from York University with honours, passionate about building scalable systems, embedded software, and full-stack applications. I enjoy working at the intersection of **hardware and software**, and I’m always excited to solve complex real-world problems through code and design.  
 
-- 🎓 **Education**: Honours Bachelor's of Software Engineering, York University (Graduating June 2025)  
+- 🎓 **Education**: Honours Bachelor's of Software Engineering, York University Graduate  
 - 💼 **Experience**:
   - **Software Developer Intern** at **YuRideShare**: Built a full-stack ridesharing platform (React, Node.js, MongoDB), implemented secure authentication, and achieved 98% test coverage.  
   - **VP-Finance** at Lassonde Engineering Society: Managed society finances and budgets, ensuring transparency and cost efficiency.  
