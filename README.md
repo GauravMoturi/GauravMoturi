@@ -28,13 +28,22 @@ I am a Software Engineer specializing in the bridge between hardware and softwar
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+        <img src="https://img.shields.io/badge/Embedded C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="Embedded C" />
       </p>
       <strong>Hardware & Embedded</strong><br>
       <p>
         <img src="https://img.shields.io/badge/Verilog-1E366C?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog" />
+        <img src="https://shields.io" alt="VHDL" />
         <img src="https://img.shields.io/badge/Embedded Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Embedded Linux" />
         <img src="https://img.shields.io/badge/GDB-4A4A4A?style=for-the-badge&logo=gnu&logoColor=white" alt="GDB" />
         <img src="https://img.shields.io/badge/Quartus-0078D4?style=for-the-badge&logo=intel&logoColor=white" alt="Quartus" />
+      </p>
+      <strong>Databases & Storage</strong><br>
+      <p>
+        <img src="https://shields.io" alt="PostgreSQL" />
+        <img src="https://shields.io" alt="MySQL" />
+        <img src="https://shields.io" alt="MongoDB" />
+        <img src="https://shields.io" alt="Redis" />
       </p>
     </td>
     <td valign="top" width="50%">
@@ -42,13 +51,24 @@ I am a Software Engineer specializing in the bridge between hardware and softwar
       <p>
         <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/Spring Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Framework" />
+        <img src="https://img.shields.io/badge/Spring Data-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data" />
+        <img src="https://shields.io" alt="AWS" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
         <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
       </p>
+      <strong>Data Engineering & Frameworks</strong><br>
+      <p>
+        <img src="https://shields.io" alt="Hadoop" />
+        <img src="https://shields.io Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
+      </p>
       <strong>Frontend & Tools</strong><br>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://shields.io" alt="JUnit" />
+        <img src="https://shields.io" alt="Mockito" />
+        <img src="https://shields.io" alt="Maven" />
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
         <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
         <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
@@ -57,29 +77,30 @@ I am a Software Engineer specializing in the bridge between hardware and softwar
   </tr>
 </table>
 
+
 ---
 
 ## Featured Projects
 
 ### **[NOVA: Optical Visibility Assessment (CSA/MDA)](https://github.com/GauravMoturi/NOVA)**
-- **Goal**: Develop mission-critical embedded software for an On-Board Computer to measure sky brightness from a high-altitude balloon, with 100% data survivability.
-- **Tech**: **C++, Embedded Linux (Armbian), GDB, BeagleBone**.
-- **Impact**: Delivered robust software validated by CSA/MDA against vacuum and thermal tests, optimizing the data pipeline to **improve imaging accuracy by 25%** and ensuring **100% data retention** through redundant storage.
+- Developed mission-critical, low-level data ingestion modules in **C++** for an on-board computer launched on a high-altitude research balloon.
+- Implemented multithreaded process isolation and rigorous memory-map diagnostics using **GDB** to identify concurrency bugs, ensuring **100% data retention** across extreme environmental changes.
+- Optimized the raw image sensor data pipeline on **Embedded Linux (Armbian)**, successfully enhancing optical data clarity and imaging tracking precision by **25%**.
 
 ### **[DE10 Battleship Game](https://github.com/GauravMoturi/DE-10-Battleship)**
-- **Goal**: Implement a complete, interactive two-player game directly on an FPGA to master low-level hardware control and real-time logic.
-- **Tech**: **Verilog HDL, FPGA (DE10-Lite), Quartus, Finite State Machines**.
-- **Impact**: Designed and deployed a stable, real-time system with direct hardware I/O, successfully creating finite state machines for all game logic and debugging the implementation with Quartus simulation tools.
+- Engineered a complete, interactive hardware-driven game engine completely on-chip to handle real-time input processing and immediate screen state updates.
+- Designed complex, zero-latency synchronous logic architectures and Finite State Machines (FSMs) written in **SystemVerilog/Verilog HDL**.
+- Conducted exhaustive hardware behavioral verification and signal timing closure within **Intel Quartus Prime**, deploying the final stable build on a **DE10-Lite FPGA board**.
 
 ### **[DealSpot Marketplace App](https://github.com/GauravMoturi/DealSpot)**
-- **Goal**: Build and deploy a full-stack, product-centric eCommerce marketplace with modern features like real-time messaging and secure authentication.
-- **Tech**: **React, Python, TypeScript, Firebase, CI/CD**.
-- **Impact**: Launched a complete web app with secure, role-based authentication and a real-time messaging system, deploying features seamlessly via an integrated **CI/CD pipeline**.
+- Developed a high-performance, full-stack eCommerce application supporting role-based user flows, secure access validation, and complex catalog discovery.
+- Engineered a scalable asynchronous messaging routing architecture and automated relational transaction updates using a modern **Python** backend framework.
+- Built a responsive user interface with **React and TypeScript**, utilizing automated testing frameworks and **CI/CD build automation** to reduce deployment friction.
 
 ### **[Evil People Card Game](https://github.com/GauravMoturi/Evil-People-website)**
-- **Goal**: Create a real-time, online multiplayer card game capable of supporting multiple simultaneous game sessions.
-- **Tech**: **React, Firebase, Python (JSON DB)**.
-- **Impact**: Engineered a scalable, concurrent server architecture supporting up to **10 players per game** and ensuring real-time game state synchronization across all clients using Firebase.
+- Designed and built a lightweight, concurrent online multiplayer network infrastructure facilitating low-latency card room matching.
+- Developed real-time data state propagation using synchronized **Firebase WebSockets** to cleanly handle active, stateful sessions for up to **10 players per lobby**.
+- Implemented custom event interception filters and transactional payload validations using **Python** to ensure stable state synchronization under simulated high traffic.
 
 ---
 <!-- METRICS START -->
